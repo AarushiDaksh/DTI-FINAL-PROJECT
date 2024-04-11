@@ -1,1 +1,2 @@
 # DTI-FINAL-PROJECT
+#The Facial Recognition Attendance System is a modern solution designed to automate the process of attendance tracking in educational institutions, workplaces, or any organization requiring efficient attendance management. Leveraging the power of facial recognition technology and MySQL database management, this system offers a seamless and accurate way to record attendance, eliminating the need for manual processes and reducing administrative overhead.
